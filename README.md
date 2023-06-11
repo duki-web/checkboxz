@@ -87,7 +87,12 @@
  - [x] 美团买菜每日任务
  - [x] 次元姬小说每日任务
  - [x] [AME字幕论坛](https://bbs.acgrip.com/)每日签到
+ - [x] [黑丝次元](https://heisi.moe/)每日签到
 </details>
+ - [x] [克拉漫播]()每日签到
+ - [x] [库街区](https://www.kurobbs.com/download.html)每日任务
+</details>
+
  
 # 使用方法 (懂得自然懂 bushi  
 [教程：关于如何使用termux运行签到盒那件事](https://blog.1oner.cn/posts/termux-checkbox/)  
@@ -127,6 +132,11 @@ ql repo https://github.com/duki-web/checkboxz.git "checkbox|install" "old" "modu
 <details>
 <summary>更新日志</summary>
 
+- 2023-06-03 新增医生圈每日任务
+- 2023-04-30 新增阿里云盘签到 by yiyule10
+- 2023-04-07 新增库街区每日任务 by星落黎明
+- 2023-04-05 新增克拉漫播每日签到 by chatgpt
+- 2023-03-29 新增黑丝次元论坛签到
 - 2023-01-21 新增Anime字幕论坛签到
 - 2022-11-27 新增次元姬小说每日任务
 - 2022-08-28 新增美团买菜每日任务

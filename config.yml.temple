@@ -41,6 +41,13 @@ Lzong:
 duokan:
   cookie: 
   
+#阿里云盘
+aliyun:
+  refresh_token: 
+
+#星穹铁轨活动
+mhy_xqtg:
+  cookie: 
 
 #橙光游戏app随便抓个包就有token
 rpg66:
@@ -141,12 +148,14 @@ maoer:
 aihao:
   cookie:  
   
-#刺猬猫小说 
+#刺猬猫小说 book_id与reader_id用于自动投推荐票，可不填
 hbooker:
   token: 
   account: 
   device_token: ciweimao_
   app_version: 2.9.297
+  book_id: 
+  reader_id: 
 
 #ACFun 手机号 密码
 acfun:
@@ -382,9 +391,21 @@ MeiTuan:
   MTMC_uuid: 
   
 #次元姬小说
-hwnovel:
+hwnovel: 
   token: 
   
 # Anime字幕论坛  
 Anime: 
-  cookie:   
+  cookie: 
+
+# 黑丝次元 
+hscy: 
+  authorization: 
+# 克拉漫播
+kilamanbo:
+  authtoken: 
+  
+#库街区
+kurobbs: 
+  token: 
+  devCode:   
