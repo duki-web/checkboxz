@@ -73,7 +73,7 @@
  - [x] 瞻彼文学app每日签到
  - [x] 云原神每日签到
  - [x] Qoo app 每日签到
- - [x] [天使动漫](https://tsdm.live/forum.php?mobile=yes)每日签到and打工
+ - [x] [天使动漫](https://tsdm.live/forum.php?mobile=yes)每日签到and打工 `tsdmsign为单独的签到模块，tsdmwork为单独的打工模块`
  - [x] [耽漫](99fuman.com)每日签到
  - [x] [轻之文库](www.linovel.net)每日签到
  - [x] [游戏动力app]()每日任务
@@ -88,14 +88,16 @@
  - [x] 次元姬小说每日任务
  - [x] [AME字幕论坛](https://bbs.acgrip.com/)每日签到
  - [x] [黑丝次元](https://heisi.moe/)每日签到
-</details>
  - [x] [克拉漫播]()每日签到
  - [x] [库街区](https://www.kurobbs.com/download.html)每日任务
+ - [x] [linkai](https://chat.link-ai.tech/home?share=GBoWyH)每日签到 
+ - [x] [泡芙加速器](https://paofujiasu.com/)每日签到+看广告+兑换（抓包vx小程序）
+ - [x] [海贼王论坛](https://bbs.talkop.com/)每日签到
 </details>
 
  
 # 使用方法 (懂得自然懂 bushi  
-[教程：关于如何使用termux运行签到盒那件事](https://blog.1oner.cn/posts/termux-checkbox/)  
+[教程：关于如何使用termux运行签到盒那件事](https://blog.1oner.cn/p/termux-checkbox/)  
 termux可以使用crontab设置定时任务  
 写法参见crontab.list
 
@@ -131,7 +133,9 @@ ql repo https://github.com/duki-web/checkboxz.git "checkbox|install" "old" "modu
 # other
 <details>
 <summary>更新日志</summary>
-
+- 2023-11-23 新增[海贼王论坛](https://bbs.talkop.com/)每日签到 by LinYuanovo
+- 2023-11-22 新增[泡芙加速器](https://paofujiasu.com/)每日签到+看广告+兑换 by LinYuanovo
+- 2023-10-23 新增[linkai](https://chat.link-ai.tech/home?share=GBoWyH)每日签到 
 - 2023-06-03 新增医生圈每日任务
 - 2023-04-30 新增阿里云盘签到 by yiyule10
 - 2023-04-07 新增库街区每日任务 by星落黎明
